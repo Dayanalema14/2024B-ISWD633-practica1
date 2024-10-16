@@ -27,7 +27,7 @@ Descargar la imagen **hello-world**
 # COMPLETAR
 
 **¿Qué es nginx**
-# COMPLETAR 
+Es un servidor web de alto nivel que se utiliza para servir contenido estático como un proxy inverso para distribuir trafico de red de manera eficiente a servidores backend. Docker puede funcionar como un cotenedor encargado de gestionar las conexiones, equilibrar la carga y dirigir las solicitudes entrantes hacia otros contenedores que ejecutan diversas aplicaciones o servicios.
 
 Descargar la imagen  **nginx** en la versión **alpine**
 # COMPLETAR
