@@ -1,3 +1,3 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+
+Comparando mis conocimientos antes y después de realizar la práctica relacionada con Docker los comandos y comprensión teórica de como trabaja con imágenes a mapear puertos del host a los del contenedor y como se comunica con el exterior y como podemos hacer que la aplicaion dentro del contenedor sea accesile desde la maquina del host.
